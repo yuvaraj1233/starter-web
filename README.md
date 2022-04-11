@@ -3,7 +3,7 @@
 This repository is for showing how Git and GitHub work adding a line for rebashing a
 
 
-## Purpose
+## Purposethen more changes 
 
 Sample website with plenty of files for demo
 

@@ -14,4 +14,4 @@ thsi is a simple web projecct
 pleasse fork this repo and then issue pull request
 ###copyright
 
-2014 git .training .
+201rref.;vldpfgdfg,lfhk git .training .
