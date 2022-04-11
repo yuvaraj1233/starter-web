@@ -10,7 +10,7 @@ Sample website with plenty of files for demo
 thsi is a simple web projecct
 
 ## How to contribute
-
+pleasse fork this repo and then issue pull request
 ###copyright
 
 2014 git .training .
