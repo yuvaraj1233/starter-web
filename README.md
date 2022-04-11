@@ -15,3 +15,4 @@ pleasse fork this repo and then issue pull request
 ###copyright
 
 201rref.;vldpfgdfg,lfhk git .training .
+ALL RGHTS RESERVED
