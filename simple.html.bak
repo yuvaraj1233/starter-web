@@ -4,7 +4,7 @@
 -->
 	
 <head>
-	<title>an example website</title>
+	<title>an respectful  website</title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -18,11 +18,11 @@
 	<main class="container">
 	<!-- Content Goes Here -->
 		<p>
-			Just some content
+			not sure what to do
 		</p>
 	</main>
 	<footer class="container">
-		<p>&copy; Company 2014</p>
+		<p>&copy;  yuvaraj Company 2017</p>
 	</footer>
 </body>
 </html>
